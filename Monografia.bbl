@@ -1,0 +1,215 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.45.2.1 }
+
+\bibitem[Alonso et al. 2004]{book:webservice}
+\abntrefinfo{Alonso et al.}{ALONSO et al.}{2004}
+{ALONSO, G. et al. \emph{Web Services: Concepts, Architecture and
+  Applications}. [S.l.]: Springer Verlag, 2004. 123--125~p.
+ISBN 3-540-44008-9.}
+
+\bibitem[Balani 2009]{naveen}
+\abntrefinfo{Balani}{BALANI}{2009}
+{BALANI, R.~H. N. \emph{Apache CXF Web Service Development: Develop and deploy
+  SOAP and RESTful Web Services}. [S.l.]: Packt Publishing Ltd., 2009.
+ISBN 978-1-847195-40-1.}
+
+\bibitem[Booth et al. 2004]{w3c}
+\abntrefinfo{Booth et al.}{BOOTH et al.}{2004}
+{BOOTH, D. et al. \emph{Web Services Architecture}. 2004.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.w3\-.org\-/TR\-/ws-arch\-/$>$}{http:/%
+/www.w3.org/TR/ws-arch/}.}
+
+\bibitem[Carvalho e Campos 2007]{artigo:rogerio}
+\abntrefinfo{Carvalho e Campos}{CARVALHO; CAMPOS}{2007}
+{CARVALHO, R.~A. de; CAMPOS, R. de. Propostas para o processo de
+  desenvolvimento do sistema erp5.
+2007.}
+
+\bibitem[Cerami 2002]{ethan}
+\abntrefinfo{Cerami}{CERAMI}{2002}
+{CERAMI, E. \emph{Web Services Essentials}. [S.l.]: O'Reilly, 2002.
+ISBN 0596002246.}
+
+\bibitem[Chandra et al. 2001]{355074}
+\abntrefinfo{Chandra et al.}{CHANDRA et al.}{2001}
+{CHANDRA, R. et al. \emph{Parallel programming in OpenMP}. [S.l.: s.n.], 2001.
+  147--149~p.
+ISBN 1-55860-671-8.}
+
+\bibitem[Christensen et al. 2001]{wsdl}
+\abntrefinfo{Christensen et al.}{CHRISTENSEN et al.}{2001}
+{CHRISTENSEN, E. et al. \emph{Web Services Description Language (WSDL) 1.1}.
+  2001.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.w3\-.org\-/TR\-/wsdls$>$}{http://www.%
+w3.org/TR/wsdls}.}
+
+\bibitem[Dykes e Tittel 2005]{xml_dummies}
+\abntrefinfo{Dykes e Tittel}{DYKES; TITTEL}{2005}
+{DYKES, L.; TITTEL, E. \emph{XML For Dummies; 4th Edition}. [S.l.]: Wiley
+  Publising Inc., 2005.
+ISBN 0764588451.}
+
+\bibitem[Eby 2010]{wsgi:website}
+\abntrefinfo{Eby}{EBY}{2010}
+{EBY, P.~J. \emph{Python Web Server Gateway Interface v1.0}. 2010.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.python\-.org\-/dev\-/peps\-/pep-0333,
+  acessado 15\-/05\-/2010$>$}{http://www.python.org/dev/peps/pep-0333, acessado
+  15/05/2010}.}
+
+\bibitem[Eisenberg 2005]{oasis}
+\abntrefinfo{Eisenberg}{EISENBERG}{2005}
+{EISENBERG, J.~D. \emph{OASIS OpenDocument Essentials: Using OASIS OpenDocument
+  XML}. [S.l.]: Friends of OpenDocument Inc., 2005.}
+
+\bibitem[Fulton 2010]{jim}
+\abntrefinfo{Fulton}{FULTON}{2010}
+{FULTON, J. \emph{zc.buildout: System for managing development buildouts}.
+  2010.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/pypi\-.python\-.org\-/pypi\-/zc\-.buildout,
+  acessado 11\-/06\-/2010$>$}{http://pypi.python.org/pypi/zc.buildout, acessado
+  11/06/2010}.}
+
+\bibitem[Gookin 2005]{1211498}
+\abntrefinfo{Gookin}{GOOKIN}{2005}
+{GOOKIN, D. \emph{Troubleshooting Your PC For Dummies (For Dummies
+  (Computer/Tech))}. [S.l.: s.n.], 2005. 146--147~p.}
+
+\bibitem[Honoré 2010]{erp5_buildout}
+\abntrefinfo{Honoré}{HONORé}{2010}
+{HONORé, J. \emph{How to install ERP5 from Buildout}. 2010.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.erp5\-.com\-/download\-/linux\-/Howto%
+-Install\-.erp5\-.From\-.Buildout, acessado em
+  22\-/06\-/2010$>$}{http://www.erp5.com/download/linux/Howto-Install.erp5.Fro%
+m.Buildout, acessado em 22/06/2010}.}
+
+\bibitem[Laurent, Dumbill e Johnston 2001]{laurent}
+\abntrefinfo{Laurent, Dumbill e Johnston}{LAURENT; DUMBILL; JOHNSTON}{2001}
+{LAURENT, S.~S.; DUMBILL, E.; JOHNSTON, J. \emph{Programming Web Services with
+  XML-RPC}. Sebastopol, CA, USA: O'Reilly \& Associates, Inc., 2001.
+ISBN 0596001193.}
+
+\bibitem[Lutz 2006]{python_zope}
+\abntrefinfo{Lutz}{LUTZ}{2006}
+{LUTZ, M. \emph{Programming Python, Third Edition}. [S.l.: s.n.], 2006.
+  1130~p.}
+
+\bibitem[Newcomer 2002]{webservice_foto}
+\abntrefinfo{Newcomer}{NEWCOMER}{2002}
+{NEWCOMER, E. \emph{Understanding Web services: XML, WSDL, SOAP, and UDDI}.
+  Boston, MA, USA: Addison-Wesley Longman Publishing Co., Inc., 2002. 3~p.
+ISBN 0201750813.}
+
+\bibitem[Norris, Hurley e Hartley 2000]{557044}
+\abntrefinfo{Norris, Hurley e Hartley}{NORRIS; HURLEY; HARTLEY}{2000}
+{NORRIS, G.; HURLEY, J.~R.; HARTLEY, K.~M. \emph{E-Business and ERP:
+  Transforming the Enterprise}. New York, NY, USA: John Wiley \& Sons, Inc.,
+  2000.
+ISBN 0471392081.}
+
+\bibitem[Oram e Wilson 2007]{beautiful}
+\abntrefinfo{Oram e Wilson}{ORAM; WILSON}{2007}
+{ORAM, A.; WILSON, G. \emph{Beautiful Code}. [S.l.: s.n.], 2007. 339--350~p.}
+
+\bibitem[Pilato 2004]{975530}
+\abntrefinfo{Pilato}{PILATO}{2004}
+{PILATO, M. \emph{Version Control With Subversion}. Sebastopol, CA, USA:
+  O'Reilly \& Associates, Inc., 2004.
+ISBN 0596004486.}
+
+\bibitem[Pilone e Miles 2007]{HeadFirst}
+\abntrefinfo{Pilone e Miles}{PILONE; MILES}{2007}
+{PILONE, D.; MILES, R. \emph{Head first software development}. [S.l.]:
+  O'Reilly, 2007.
+ISBN 9780596527358.}
+
+\bibitem[Ramachandran e Carvalho 2009]{handbook}
+\abntrefinfo{Ramachandran e Carvalho}{RAMACHANDRAN; CARVALHO}{2009}
+{RAMACHANDRAN, M.; CARVALHO, R.~A. de. \emph{Handbook of Research on Software
+  Engineering and Productivity Technologies: Implications of Globalization}.
+  [S.l.: s.n.], 2009. 423--427~p.
+ISBN 978-1-60566-732-4.}
+
+\bibitem[Ramme 2010]{uno_page}
+\abntrefinfo{Ramme}{RAMME}{2010}
+{RAMME, K. \emph{This is the Uno Project}. 2010.
+Dispon{\'\i}vel em: \htmladdnormallink{$<$http:\-/\-/udk\-.openoffice\-.org\-/,
+  acessado em 28\-/06\-/2010$>$}{http://udk.openoffice.org/, acessado em
+  28/06/2010}.}
+
+\bibitem[Santos 2007]{ronaldo}
+\abntrefinfo{Santos}{SANTOS}{2007}
+{SANTOS, R.~A.
+\emph{GRANULATEO3TOOL - UMA FERRAMENTA PARA GRANULARIZAÇÃO DE DOCUMENTOS}.
+49~p. Monografia (Monografia) --- Centro Federal de Educação Tecnológica -
+  Campos - RJ, Campos dos Goytacazes/RJ, 2007.}
+
+\bibitem[Shane e Shore 2007]{1197991}
+\abntrefinfo{Shane e Shore}{SHANE; SHORE}{2007}
+{SHANE, S.~W.; SHORE, J. \emph{The Art of Agile Development: With Extreme
+  Programming}. [S.l.]: O'Reilly Media, Inc., 2007.
+ISBN 978-0-596-15290-1.}
+
+\bibitem[Singh et al. 2004]{singh}
+\abntrefinfo{Singh et al.}{SINGH et al.}{2004}
+{SINGH, I. et al. \emph{Designing Web Services with the J2EE 1.4 Platform:
+  JAX-RPC, XML Services, and Clients}. [S.l.]: Pearson Education, 2004.
+ISBN 0321205219.}
+
+\bibitem[Smets 2010]{erp5_bt5}
+\abntrefinfo{Smets}{SMETS}{2010}
+{SMETS, J.-P. \emph{ERP5 Business Templates Download}. 2010.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.erp5\-.com\-/web\underline{\
+  }page\underline{\ }module\-/1916\-/, acessado em
+  22\-/06\-/2010$>$}{http://www.erp5.com/web_page_module/1916/, acessado em
+  22/06/2010}.}
+
+\bibitem[Stervinou 2003]{web:xmlrpc}
+\abntrefinfo{Stervinou}{STERVINOU}{2003}
+{STERVINOU, J. \emph{XML-RPC Home Page}. 2003.
+Dispon{\'\i}vel em: \htmladdnormallink{$<$http:\-/\-/www\-.xmlrpc\-.com\-/,
+  acessado 10\-/06\-/2010$>$}{http://www.xmlrpc.com/, acessado 10/06/2010}.}
+
+\bibitem[Thomas 2008]{web:uno}
+\abntrefinfo{Thomas}{THOMAS}{2008}
+{THOMAS, R. \emph{Python-UNO bridge}. 2008.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/udk\-.openoffice\-.org\-/python\-/python-br%
+idge\-.html, acessado
+  10\-/06\-/2010$>$}{http://udk.openoffice.org/python/python-bridge.html,
+  acessado 10/06/2010}.}
+
+\bibitem[Thomas e Budischewski 2008]{pyuno_page}
+\abntrefinfo{Thomas e Budischewski}{THOMAS; BUDISCHEWSKI}{2008}
+{THOMAS, R.; BUDISCHEWSKI, J. \emph{Python-UNO bridge}. 2008.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/udk\-.openoffice\-.org\-/python\-/python-br%
+idge\-.html, acessado em
+  15\-/07\-/2010$>$}{http://udk.openoffice.org/python/python-bridge.html,
+  acessado em 15/07/2010}.}
+
+\bibitem[Wikipedia 2010]{wiki:erp}
+\abntrefinfo{Wikipedia}{WIKIPEDIA}{2010a}
+{WIKIPEDIA. \emph{Enterprise Resource Planning}. 2010.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/en\-.wikipedia\-.org\-/wiki\-/ERP, acessado
+  05\-/06\-/2010$>$}{http://en.wikipedia.org/wiki/ERP, acessado 05/06/2010}.}
+
+\bibitem[Wikipedia 2010]{wiki:oo.org}
+\abntrefinfo{Wikipedia}{WIKIPEDIA}{2010b}
+{WIKIPEDIA. \emph{OpenOffice.org}. 2010.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/pt\-.wikipedia\-.org\-/wiki\-/OpenOffice\-.%
+org, acessado 15\-/07\-/2010$>$}{http://pt.wikipedia.org/wiki/OpenOffice.org,
+  acessado 15/07/2010}.}
+
+\end{thebibliography}

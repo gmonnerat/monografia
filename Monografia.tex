@@ -1,0 +1,110 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage{a4wide}
+\usepackage[brazil,english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage{doublespace}
+\usepackage{fancyheadings}
+\usepackage{abntcite}
+\usepackage{graphics}
+\usepackage{multirow}
+\usepackage{epigraph}
+\usepackage{url}
+\usepackage{wrapfig}
+
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{subfigure}
+\usepackage[caixa=Mm,ordem=alf]{tabela-simbolos}
+\usepackage{dsfont}
+\def\citeopen{[}
+\def\citeclose{]}
+
+\newcommand{\figr}[1]{Figura~\ref{#1}}
+\newcommand{\eqt}[1]{Eq.~(\ref{#1})}
+\newcommand{\eqts}[2]{Eq.~(\ref{#1})~e~(\ref{#2})}
+\newcommand{\eqtss}[3]{Eq.~(\ref{#1})~,~(\ref{#2})~e~(\ref{#3})}
+\newcommand{\tab}[1]{Tabela~\ref{#1}}
+
+%Comandos para se definir cabe�alhos nas p�ginas da disserta��o
+\pagestyle{fancyplain}
+\lhead[\fancyplain{}{\thepage}]{\fancyplain{}{\small\leftmark}}
+\rhead[\fancyplain{}{\small\rightmark}]{\fancyplain{}{\thepage}}
+\cfoot{\fancyplain{\thepage}{}}
+
+%Configuração para numeração de subsubseções
+\setcounter{secnumdepth}{3}
+%Instancia do contador que ser� usado como refer�ncia na monografia
+\newcounter{mypage}
+\DeclareGraphicsExtensions{.jpg, .pdf, .mps, .png}
+
+\begin{document}
+\stepcounter{mypage}
+
+\include{capa}
+\stepcounter{mypage}
+
+\include{folhaderosto}
+\stepcounter{mypage}
+
+\include{folhadeaprovacao}
+\stepcounter{mypage}
+
+\include{dedicatoria}
+\stepcounter{mypage}
+%Include dos agradecimentos
+\include{agradecimento}
+\stepcounter{mypage}
+
+% \include{epigrafe}
+% \stepcounter{mypage}
+
+\renewcommand{\baselinestretch}{1.3}
+\pagenumbering{roman}
+
+\setlength{\voffset}{0.0in}
+
+%Atribui ao contador page (default do latex, que é usado por todo o documento)
+%o valor do contador é mypage
+\setcounter{page}{\value{mypage}}
+%Espaçamento das páginas
+\begin{spacing}{1.5}
+%Include do resumo
+\include{resumo}
+\end{spacing}
+
+\selectlanguage{brazil}
+
+\begin{spacing}{1.0}
+\listoffigures
+\listoftables
+\tableofcontents
+\end{spacing}
+
+\clearpage
+\setcounter{mypage}{\value{page}}
+\clearpage
+\pagenumbering{arabic}
+
+%Includes da monografia propriamente dita
+\begin{spacing}{1.5}
+\setcounter{page}{\value{mypage}}
+\include{introd}
+\include{cap2}
+\include{cap4}
+\include{cap5}
+
+\include{conclusao}
+\end{spacing}
+
+\begin{spacing}{1.5}
+\bibliographystyle{abnt-alf}
+\bibliography{referencia}
+\end{spacing}
+
+\begin{spacing}{1.5}
+\include{apendice}
+\end{spacing}
+
+\end{document}

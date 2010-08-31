@@ -1,0 +1,63 @@
+\select@language {english}
+\select@language {brazil}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{12}{chapter.1}
+\contentsline {chapter}{\numberline {2}Conceitos b\IeC {\'a}sicos}{15}{chapter.2}
+\contentsline {section}{\numberline {2.1}\textit {OpenDocument Format}}{15}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Estrutura de um \textit {OpenDocument}}{16}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Formatos \textit {OpenDocument}}{16}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}OpenOffice.org}{17}{section.2.2}
+\contentsline {section}{\numberline {2.3}UNO}{18}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}PyUNO}{19}{subsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.1.1}Python \textit {Scripts}}{19}{subsubsection.2.3.1.1}
+\contentsline {subsubsection}{\numberline {2.3.1.2}\textit {Script} Python como componente UNO}{20}{subsubsection.2.3.1.2}
+\contentsline {section}{\numberline {2.4}XML}{20}{section.2.4}
+\contentsline {section}{\numberline {2.5}WSGI}{21}{section.2.5}
+\contentsline {section}{\numberline {2.6}\textit {Web Service}}{22}{section.2.6}
+\contentsline {section}{\numberline {2.7}XML-RPC}{24}{section.2.7}
+\contentsline {section}{\numberline {2.8}ERP}{25}{section.2.8}
+\contentsline {section}{\numberline {2.9}ERP5}{26}{section.2.9}
+\contentsline {subsection}{\numberline {2.9.1}\textit {Business Templates}}{26}{subsection.2.9.1}
+\contentsline {section}{\numberline {2.10}Buildout}{26}{section.2.10}
+\contentsline {section}{\numberline {2.11}Subversion}{27}{section.2.11}
+\contentsline {chapter}{\numberline {3}OOOD v2.0}{28}{chapter.3}
+\contentsline {section}{\numberline {3.1}\textit {IApplication}}{29}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}OpenOffice e Xvfb}{29}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}\textit {IManager}}{30}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}\textit {Manager}}{31}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}\textit {IDocument}}{31}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}\textit {FileSystemDocument}}{31}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.4}\textit {IMonitor}}{32}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}\textit {MemoryMonitor}}{32}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}\textit {TimeoutMonitor}}{33}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}\textit {RequestMonitor}}{33}{subsection.3.4.3}
+\contentsline {section}{\numberline {3.5}\textit {ILockable}}{33}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}OpenOffice}{34}{subsection.3.5.1}
+\contentsline {section}{\numberline {3.6}\textit {IHandler}}{34}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}\textit {OOHandler}}{34}{subsection.3.6.1}
+\contentsline {section}{\numberline {3.7}\textit {IMimemapper}}{35}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Filtros do OpenOffice.org}{35}{subsection.3.7.1}
+\contentsline {paragraph}{}{36}{section*.6}
+\contentsline {subsection}{\numberline {3.7.2}\textit {Mimemapper}}{37}{subsection.3.7.2}
+\contentsline {section}{\numberline {3.8}\textit {IFilter}}{37}{section.3.8}
+\contentsline {subsection}{\numberline {3.8.1}\textit {Filter}}{38}{subsection.3.8.1}
+\contentsline {chapter}{\numberline {4}Estudo de Casos}{39}{chapter.4}
+\contentsline {section}{\numberline {4.1}Ambiente de desenvolvimento}{39}{section.4.1}
+\contentsline {section}{\numberline {4.2}Instala\IeC {\c c}\IeC {\~a}o do OOOD 2.0}{39}{section.4.2}
+\contentsline {section}{\numberline {4.3}Todos os passos de uma resposta ao cliente}{40}{section.4.3}
+\contentsline {section}{\numberline {4.4}Instala\IeC {\c c}\IeC {\~a}o do ERP5}{41}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Configurando ERP5 para utilizar o OOOD}{44}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Instala\IeC {\c c}\IeC {\~a}o do \textit {Business Template} erp5\_dms}{45}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Compatibilidade entre o ERP5 e o OOOD 2.0}{47}{section.4.5}
+\contentsline {section}{\numberline {4.6}Usando o ERP5 para converter documentos}{47}{section.4.6}
+\contentsline {section}{\numberline {4.7}Problemas e Decis\IeC {\~o}es de Projeto}{49}{section.4.7}
+\contentsline {subsection}{\numberline {4.7.1}Vazamento de mem\IeC {\'o}ria}{50}{subsection.4.7.1}
+\contentsline {subsubsection}{\numberline {4.7.1.1}UnoConverter}{51}{subsubsection.4.7.1.1}
+\contentsline {subsubsection}{\numberline {4.7.1.2}UnoMimeMapper}{51}{subsubsection.4.7.1.2}
+\contentsline {subsection}{\numberline {4.7.2}Armazenamento e busca dos filtros}{51}{subsection.4.7.2}
+\contentsline {subsection}{\numberline {4.7.3}Arquivos compactados}{52}{subsection.4.7.3}
+\contentsline {section}{\numberline {4.8}Explicando o funcionamento do prestador de servi\IeC {\c c}o com \textit {Paste}}{53}{section.4.8}
+\contentsline {section}{\numberline {4.9}Comparando a \textit {perfomance} entre a OOOD 2.0 e o OOOD 1.0}{54}{section.4.9}
+\contentsline {section}{\numberline {4.10}Resultados obtidos}{55}{section.4.10}
+\contentsline {chapter}{\numberline {5}Conclus\IeC {\~a}o}{56}{chapter.5}
+\contentsline {section}{\numberline {5.1}Objetivos alcan\IeC {\c c}ados}{56}{section.5.1}
+\contentsline {section}{\numberline {5.2}Trabalhos futuros}{56}{section.5.2}

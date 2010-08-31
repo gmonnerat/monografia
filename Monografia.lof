@@ -1,0 +1,52 @@
+\select@language {english}
+\select@language {brazil}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Arquitetura do UNO. Adaptado de: \cite {uno_page}.}}{19}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces \textit {Scripts} Python Utilizando PyUno. Adaptado de: \cite {web:uno}.}}{20}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces \textit {Scripts} Python como componente UNO. Adaptado de: \cite {web:uno}.}}{20}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Exemplo de Arquivo XML. Fonte: \cite {ronaldo}.}}{21}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Servi\IeC {\c c}o Web com sistemas internos de plataformas diferentes, Adaptado de: \cite {webservice_foto}.}}{23}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Troca de mensagens utilizando XML-RPC, Adaptado de Fonte: \cite {web:xmlrpc}.}}{25}{figure.2.6}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Arquivo de configura\IeC {\c c}\IeC {\~a}o do Buildout.}}{27}{figure.2.7}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Utiliza\IeC {\c c}\IeC {\~a}o da API \textit {IApplication} para controlar o processo Xvfb.}}{30}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Utiliza\IeC {\c c}\IeC {\~a}o da API \textit {IApplication} para controlar o processo OpenOffice.org.}}{30}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Exemplo de utiliza\IeC {\c c}\IeC {\~a}o do objeto \textit {Manager}.}}{31}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Exemplo de uso do \textit {FileSystemDocument}.}}{32}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Exemplo de uso da interface \textit {ILockable} no objeto OpenOffice.}}{34}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Exemplo de utiliza\IeC {\c c}\IeC {\~a}o do \textit {OOHandler}.}}{35}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Propriedades de um filtro.}}{36}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Exemplo de um filtro do OpenOffice.org.}}{36}{figure.3.8}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Importando todos filtros do OpenOffice.org para o \textit {Mimemapper}.}}{37}{figure.3.9}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Exemplo de cria\IeC {\c c}\IeC {\~a}o de um objeto \textit {Filter}.}}{38}{figure.3.10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Conex\IeC {\~a}o do cliente com servidor.}}{40}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces \textit {Download} do Buildout para instala\IeC {\c c}\IeC {\~a}o das depend\IeC {\^e}ncias do ERP5. Fonte: \cite {erp5_buildout}.}}{41}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Comando para instalar depend\IeC {\^e}ncias. Fonte: \cite {erp5_buildout}.}}{41}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Comando para instalar configurar o Buildout com as depend\IeC {\^e}ncias instaladas no sistema operacional. Fonte: \cite {erp5_buildout}.}}{42}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces \textit {Download} do Buildout para instala\IeC {\c c}\IeC {\~a}o de uma inst\IeC {\^a}ncia do ERP5. Fonte: \cite {erp5_buildout}.}}{42}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Arquivo de configura\IeC {\c c}\IeC {\~a}o ``my\_config.cfg''. Fonte: \cite {erp5_buildout}.}}{42}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Comandos que configuram as depend\IeC {\^e}ncias no novo Buildout. Fonte: \cite {erp5_buildout}.}}{43}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Comando para iniciar todos aplicativos. Fonte: \cite {erp5_buildout}.}}{43}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Arquivo de configura\IeC {\c c}\IeC {\~a}o para cria\IeC {\c c}\IeC {\~a}o da int\IeC {\^a}ncia ERP5. Fonte: \cite {erp5_buildout}.}}{43}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Comando para criar inst\IeC {\^a}ncia ERP5. Fonte: \cite {erp5_buildout}.}}{44}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Comando para iniciar inst\IeC {\^a}ncia ERP5. Fonte: \cite {erp5_buildout}.}}{44}{figure.4.11}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Op\IeC {\c c}\IeC {\~a}o para acessar as prefer\IeC {\^e}ncias do ERP5.}}{44}{figure.4.12}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces P\IeC {\'a}gina de pref\IeC {\^e}rencias da inst\IeC {\^a}ncia ERP5.}}{45}{figure.4.13}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Arquivo de configura\IeC {\c c}\IeC {\~a}o da inst\IeC {\^a}ncia.}}{45}{figure.4.14}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Op\IeC {\c c}\IeC {\~a}o para acessar a p\IeC {\'a}gina de configura\IeC {\c c}\IeC {\~a}o dos \textit {Business Templates}.}}{46}{figure.4.15}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Bot\IeC {\~a}o para importar ou exportar \textit {Business Templates}.}}{46}{figure.4.16}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces P\IeC {\'a}gina para definir o endere\IeC {\c c}o do reposit\IeC {\'o}rio a ser utilizado.}}{47}{figure.4.17}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Lista de \textit {Business Templates} instal\IeC {\'a}veis. Fonte: \cite {erp5_bt5}.}}{47}{figure.4.18}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Lista de \textit {Business Templates} instal\IeC {\'a}veis. Fonte: \cite {erp5_bt5}.}}{48}{figure.4.19}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Trecho de c\IeC {\'o}digo que representa um dos m\IeC {\'e}todos de compatibilidade entre aplica\IeC {\c c}\IeC {\~o}es.}}{48}{figure.4.20}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces P\IeC {\'a}gina Principal do ERP5.}}{49}{figure.4.21}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Op\IeC {\c c}\IeC {\~a}o para criar um objeto documento no ERP5.}}{49}{figure.4.22}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces \textit {Upload} de um documento.}}{50}{figure.4.23}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Pr\IeC {\'e}-visualiza\IeC {\c c}\IeC {\~a}o de um documento.}}{50}{figure.4.24}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Defini\IeC {\c c}\IeC {\~a}o do met\IeC {\'o}do que ir\IeC {\'a} prover o servi\IeC {\c c}o.}}{53}{figure.4.25}
+\contentsline {figure}{\numberline {4.26}{\ignorespaces M\IeC {\'e}todo que inicia a aplica\IeC {\c c}\IeC {\~a}o e retorno do objeto que o cliente recebe quando se conecta.}}{53}{figure.4.26}
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Amostra do arquivo de configura\IeC {\c c}\IeC {\~a}o.}}{54}{figure.4.27}
+\contentsline {figure}{\numberline {4.28}{\ignorespaces Iniciando a aplica\IeC {\c c}\IeC {\~a}o OOOD com \textit {Paste}.}}{54}{figure.4.28}
+\addvspace {10\p@ }

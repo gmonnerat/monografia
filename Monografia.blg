@@ -1,0 +1,143 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.5)
+The top-level auxiliary file: Monografia.aux
+A level-1 auxiliary file: capa.aux
+A level-1 auxiliary file: folhaderosto.aux
+A level-1 auxiliary file: folhadeaprovacao.aux
+A level-1 auxiliary file: dedicatoria.aux
+A level-1 auxiliary file: agradecimento.aux
+A level-1 auxiliary file: resumo.aux
+A level-1 auxiliary file: introd.aux
+A level-1 auxiliary file: cap2.aux
+A level-1 auxiliary file: cap4.aux
+A level-1 auxiliary file: cap5.aux
+A level-1 auxiliary file: conclusao.aux
+The style file: abnt-alf.bst
+A level-1 auxiliary file: apendice.aux
+Illegal, another \bibstyle command---line 180 of file Monografia.aux
+ : \bibstyle
+ :          {abnt-num}
+I'm skipping whatever remains of this command
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: abnt-options.bib
+Database file #2: referencia.bib
+Warning--entry type for "wiki:erp" isn't style-file defined
+--line 100 of file referencia.bib
+Warning--string name "maio" is undefined
+--line 103 of file referencia.bib
+Warning--entry type for "wiki:oo.org" isn't style-file defined
+--line 107 of file referencia.bib
+Warning--string name "junho" is undefined
+--line 110 of file referencia.bib
+Warning--entry type for "wsgi:website" isn't style-file defined
+--line 114 of file referencia.bib
+Warning--string name "abril" is undefined
+--line 117 of file referencia.bib
+Warning--entry type for "web:uno" isn't style-file defined
+--line 121 of file referencia.bib
+Warning--string name "outubro" is undefined
+--line 124 of file referencia.bib
+Warning--entry type for "web:xmlrpc" isn't style-file defined
+--line 128 of file referencia.bib
+Warning--string name "julho" is undefined
+--line 131 of file referencia.bib
+Warning--entry type for "jim" isn't style-file defined
+--line 135 of file referencia.bib
+Warning--string name "abril" is undefined
+--line 138 of file referencia.bib
+I was expecting a `,' or a `}'---line 171 of file referencia.bib
+ :  
+ :  isbn = {0764577425},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 180 of file referencia.bib
+ :  
+ :  publisher = {Morgan Kaufmann Publishers Inc.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 189 of file referencia.bib
+ :  
+ :  publisher = {Engineering Science Reference },
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "w3c" isn't style-file defined
+--line 207 of file referencia.bib
+Warning--string name "fevereiro" is undefined
+--line 210 of file referencia.bib
+Warning--entry type for "wsdl" isn't style-file defined
+--line 216 of file referencia.bib
+Warning--string name "marÃ§o" is undefined
+--line 219 of file referencia.bib
+Warning--entry type for "erp5_buildout" isn't style-file defined
+--line 225 of file referencia.bib
+Warning--string name "marÃ§o" is undefined
+--line 228 of file referencia.bib
+Warning--entry type for "erp5_bt5" isn't style-file defined
+--line 233 of file referencia.bib
+Warning--string name "fevereiro" is undefined
+--line 236 of file referencia.bib
+Warning--entry type for "uno_page" isn't style-file defined
+--line 240 of file referencia.bib
+Warning--string name "marÃ§o" is undefined
+--line 243 of file referencia.bib
+Warning--entry type for "pyuno_page" isn't style-file defined
+--line 247 of file referencia.bib
+Warning--string name "outubro" is undefined
+--line 250 of file referencia.bib
+I was expecting a `,' or a `}'---line 267 of file referencia.bib
+ : 
+ : publisher = {O'Reilly},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 283 of file referencia.bib
+ : 
+ : publisher = {O'Reilly},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
++---------------------------------------------------------+
+| Estilo bibliográfico abnt-alf.bst versão 1.45.2.1           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://abntex.codigolivre.org.br                        |
++---------------------------------------------------------+
+You've used 32 entries,
+            6480 wiz_defined-function locations,
+            1319 strings with 13153 characters,
+and the built_in function-call counts, 51870 in all, are:
+= -- 6705
+> -- 786
+< -- 1400
++ -- 1736
+- -- 245
+* -- 2936
+:= -- 6065
+add.period$ -- 126
+call.type$ -- 32
+change.case$ -- 269
+chr.to.int$ -- 31
+cite$ -- 31
+duplicate$ -- 5850
+empty$ -- 1871
+format.name$ -- 1165
+if$ -- 10292
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 561
+newline$ -- 160
+num.names$ -- 155
+pop$ -- 846
+preamble$ -- 1
+purify$ -- 117
+quote$ -- 0
+skip$ -- 6027
+stack$ -- 1
+substring$ -- 1966
+swap$ -- 1791
+text.length$ -- 24
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 4
+warning$ -- 0
+while$ -- 212
+width$ -- 0
+write$ -- 464
+(There were 6 error messages)
